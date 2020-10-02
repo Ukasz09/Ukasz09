@@ -4,7 +4,7 @@
 ![](assets/images/background.jpg)
 <h1 align="center"> Welcome to my GitHub Page </h2>
 </div>
-
+<br></br>
 <h3 align="center"> About me </h3>
 
 <p align="center">
