@@ -7,7 +7,7 @@
 
 <hr style="opacity:0.5">
 
-<h3 align: center> About me </h3>
+<h3 align="center"> About me </h3>
 
 <p style="text-align: center">
 I am a student of computer science, at the faculty of Computer Science and Management 
