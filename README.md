@@ -2,6 +2,7 @@
 <div style="opacity:0.9">
 
 ![](assets/images/background.jpg)
+
 <h1 align="center"> Welcome to my GitHub Page </h2>
 </div>
 <br>
