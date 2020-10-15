@@ -19,7 +19,7 @@ I focus on developing my programming skills. I'm also interested in software cra
 
 <h3 align="center"> :bicyclist: Beside that </h3>
 <p align="center">
-I am enthusiast of productivity and self-improvement. I passionately practice calishtenic/street workout and body building. My hobby is also cycling and bike servicing
+I am enthusiast of productivity and self-improvement. I passionately practice calishtenic/street workout and body building. My hobby is also cycling
 </p>
 <br>
 <h3 align="center"> :mailbox: Contact </h3>
