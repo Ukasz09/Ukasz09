@@ -21,7 +21,6 @@ I focus on developing my programming skills. I'm also interested in software cra
 <p align="center">
 I am enthusiast of productivity and self-improvement. I passionately practice calishtenic/street workout and body building. My hobby is also cycling
 </p>
-<br>
 <h3 align="center"> :mailbox: Contact </h3>
 <p align="center">
 Feel free to contact with me in every case
@@ -29,3 +28,4 @@ Feel free to contact with me in every case
 <p align="center">
 gajerski.lukasz@gmail.com
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ukasz09&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
