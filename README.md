@@ -28,4 +28,4 @@ Feel free to contact with me in every case
 <p align="center">
 gajerski.lukasz@gmail.com
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ukasz09&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukasz09&theme=dark" /></p>
