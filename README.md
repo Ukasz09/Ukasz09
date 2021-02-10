@@ -1,8 +1,5 @@
 
 <div style="opacity:0.9">
-
-![](assets/images/background.jpg)
-
 <h1 align="center"> Welcome to my GitHub Page </h2>
 </div>
 <br>
@@ -16,7 +13,9 @@ I am a student of computer science, at the faculty of Computer Science and Manag
 <p align="center">
 I focus on developing my programming skills. I'm also interested in software craftsmanship and try to consistently improve quality of my code.
 </p>
-
+<p align="center">
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ukasz09&theme=dark" />
+</p>
 <h3 align="center"> :bicyclist: Beside that </h3>
 <p align="center">
 I am enthusiast of productivity and self-improvement. I passionately practice calishtenic/street workout and body building. My hobby is also cycling
@@ -28,4 +27,3 @@ Feel free to contact with me in every case
 <p align="center">
 gajerski.lukasz@gmail.com
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukasz09&theme=dark" /></p>
