@@ -6,12 +6,15 @@
 <h3 align="center"> About me </h3>
 
 <p align="center">
+Hi, I'm Łukasz :) <br/><br/>
 I am a student of computer science, at the faculty of Computer Science and Management 
 </p>
 
 <h3 align="center"> :gem: Software development interests </h3>
 <p align="center">
-I focus on developing my programming skills. I'm also interested in software craftsmanship and try to consistently improve quality of my code.
+
+I love doing nice stuff. Currently I'm focused on web development. I'm also interested in software craftsmanship.
+
 </p>
 <p align="center">
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ukasz09&theme=dark" />
